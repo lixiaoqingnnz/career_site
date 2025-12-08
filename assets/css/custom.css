@@ -5,6 +5,7 @@
     width: 90%;
     max-width: 1200px;
     margin: auto;
+    margin-bottom: 4rem;
   }
   
   /* 大标题 */
@@ -261,7 +262,7 @@ html[data-bs-theme="dark"] .core-domain-card li {
 
 /* 大标题：Core Domains & Portfolio Focus */
 .core-title {
-  color: #f7e6b5 !important;  /* 你之前的奶黄色 */
+  color: #f7d87a !important;  /* 你之前的奶黄色 */
   font-weight: 700;
   font-size: 2.6rem;
   text-shadow: 0px 2px 6px rgba(0, 0, 0, 0.35);

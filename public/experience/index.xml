@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Experience on Li Xiaoqing - Personal Portfolio</title><link>http://localhost:1313/my_career_site/experience/</link><description>Recent content in Experience on Li Xiaoqing - Personal Portfolio</description><generator>Hugo</generator><language>en</language><lastBuildDate>Tue, 01 Jul 2025 00:00:00 +0100</lastBuildDate><atom:link href="http://localhost:1313/my_career_site/experience/index.xml" rel="self" type="application/rss+xml"/><item><title/><link>http://localhost:1313/my_career_site/experience/job-4/</link><pubDate>Tue, 01 Jul 2025 00:00:00 +0100</pubDate><guid>http://localhost:1313/my_career_site/experience/job-4/</guid><description>&lt;h4 id="brief-introduction"&gt;Brief introduction:&lt;/h4&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Experience on Li Xiaoqing - Personal Portfolio</title><link>http://localhost:1313/career_site/experience/</link><description>Recent content in Experience on Li Xiaoqing - Personal Portfolio</description><generator>Hugo</generator><language>en</language><lastBuildDate>Tue, 01 Jul 2025 00:00:00 +0100</lastBuildDate><atom:link href="http://localhost:1313/career_site/experience/index.xml" rel="self" type="application/rss+xml"/><item><title/><link>http://localhost:1313/career_site/experience/job-4/</link><pubDate>Tue, 01 Jul 2025 00:00:00 +0100</pubDate><guid>http://localhost:1313/career_site/experience/job-4/</guid><description>&lt;h4 id="brief-introduction"&gt;Brief introduction:&lt;/h4&gt;
 &lt;p&gt;AI Research Engineer – multimodal &amp;amp; knowledge-enhanced systems.&lt;/p&gt;
 &lt;h4 id="responsibilities"&gt;Responsibilities:&lt;/h4&gt;
 &lt;ul&gt;
@@ -7,7 +7,7 @@
 &lt;li&gt;Developed an automated OCR pipeline for extracting blood pressure monitor readings, reducing manual transcription workload and significantly improving clinical data digitization efficiency.&lt;/li&gt;
 &lt;li&gt;Utilized Weights &amp;amp; Biases for experiment tracking and model evaluation, improving reproducibility and reducing debugging/training iteration time.&lt;/li&gt;
 &lt;li&gt;Curated and preprocessed multimodal datasets (text, image, signal, and knowledge-graph data), enabling cleaner data pipelines and reducing preprocessing effort for downstream ML/LLM workflows.&lt;/li&gt;
-&lt;/ul&gt;</description></item><item><title/><link>http://localhost:1313/my_career_site/experience/job-3/</link><pubDate>Sun, 01 Dec 2024 00:00:00 +0100</pubDate><guid>http://localhost:1313/my_career_site/experience/job-3/</guid><description>&lt;h4 id="brief-introduction"&gt;Brief introduction:&lt;/h4&gt;
+&lt;/ul&gt;</description></item><item><title/><link>http://localhost:1313/career_site/experience/job-3/</link><pubDate>Sun, 01 Dec 2024 00:00:00 +0100</pubDate><guid>http://localhost:1313/career_site/experience/job-3/</guid><description>&lt;h4 id="brief-introduction"&gt;Brief introduction:&lt;/h4&gt;
 &lt;p&gt;Deep learning research engineer – medical diagnostics.&lt;/p&gt;
 &lt;h4 id="responsibilities"&gt;Responsibilities:&lt;/h4&gt;
 &lt;ul&gt;
@@ -15,14 +15,14 @@
 &lt;li&gt;Trained, fine-tuned, and evaluated deep learning models including U-Net, YOLOv5, ResNet, and diffusion transformers, achieving measurable gains in accuracy and robustness through systematic augmentation,
 hyperparameter optimization, and cross-validation.&lt;/li&gt;
 &lt;li&gt;Collaborated using Git and Git Flow for version control and experiment tracking, improving code reproducibility and team development efficiency in agile project settings.&lt;/li&gt;
-&lt;/ul&gt;</description></item><item><title/><link>http://localhost:1313/my_career_site/experience/job-2/</link><pubDate>Fri, 01 Dec 2023 00:00:00 +0100</pubDate><guid>http://localhost:1313/my_career_site/experience/job-2/</guid><description>&lt;h4 id="brief-introduction"&gt;Brief introduction:&lt;/h4&gt;
+&lt;/ul&gt;</description></item><item><title/><link>http://localhost:1313/career_site/experience/job-2/</link><pubDate>Fri, 01 Dec 2023 00:00:00 +0100</pubDate><guid>http://localhost:1313/career_site/experience/job-2/</guid><description>&lt;h4 id="brief-introduction"&gt;Brief introduction:&lt;/h4&gt;
 &lt;p&gt;Embedded system development and functional testing for dedical devices.&lt;/p&gt;
 &lt;h4 id="responsibilities"&gt;Responsibilities:&lt;/h4&gt;
 &lt;ul&gt;
 &lt;li&gt;Designed and implemented embedded software for a simulator using C language and STM32 microcontrollers, enabling automated functional testing and improving test efficiency.&lt;/li&gt;
 &lt;li&gt;Evaluated functional and business requirements for multiple medical device lines (patient monitors, ECG,
 OB/GYN, etc.), designed comprehensive test cases, and performed functional verification using both manual and automated testing frameworks.&lt;/li&gt;
-&lt;/ul&gt;</description></item><item><title/><link>http://localhost:1313/my_career_site/experience/job-1/</link><pubDate>Thu, 01 Dec 2022 00:00:00 +0100</pubDate><guid>http://localhost:1313/my_career_site/experience/job-1/</guid><description>&lt;h4 id="brief-introduction"&gt;Brief introduction:&lt;/h4&gt;
+&lt;/ul&gt;</description></item><item><title/><link>http://localhost:1313/career_site/experience/job-1/</link><pubDate>Thu, 01 Dec 2022 00:00:00 +0100</pubDate><guid>http://localhost:1313/career_site/experience/job-1/</guid><description>&lt;h4 id="brief-introduction"&gt;Brief introduction:&lt;/h4&gt;
 &lt;ul&gt;
 &lt;li&gt;I participated in the project ”Effect of Nutritional Status of Pregnant Women on Fetal Health”, and I collected data and preprocessed the samples to ensure the data reliability and integrity of the follow-up clinical trails, which is essential to the project.&lt;/li&gt;
 &lt;/ul&gt;

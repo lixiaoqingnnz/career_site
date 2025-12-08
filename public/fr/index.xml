@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title/><link>http://localhost:1313/my_career_site/fr/</link><description>Recent content on</description><generator>Hugo</generator><language>fr</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0100</lastBuildDate><atom:link href="http://localhost:1313/my_career_site/fr/index.xml" rel="self" type="application/rss+xml"/><item><title>Poste #3</title><link>http://localhost:1313/my_career_site/fr/experience/job-3/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0100</pubDate><guid>http://localhost:1313/my_career_site/fr/experience/job-3/</guid><description>&lt;h2 id="réparer-le-monde-un-octet-à-la-fois"&gt;Réparer le monde, un octet à la fois&lt;/h2&gt;
-&lt;p&gt;Prise de contrôle hostile - qui est le patron maintenant !&lt;/p&gt;</description></item><item><title>Poste #2</title><link>http://localhost:1313/my_career_site/fr/experience/job-2/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0100</pubDate><guid>http://localhost:1313/my_career_site/fr/experience/job-2/</guid><description>&lt;h2 id="réparer-le-monde-un-octet-à-la-fois"&gt;Réparer le monde, un octet à la fois&lt;/h2&gt;
-&lt;p&gt;Poursuivant la quête.&lt;/p&gt;</description></item><item><title>Accueil</title><link>http://localhost:1313/my_career_site/fr/home/home/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/my_career_site/fr/home/home/</guid><description>&lt;section id="section-vedette" class="rad-showcase rad-showcase--index rad-animation-group rad-fade-down"&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title/><link>http://localhost:1313/career_site/fr/</link><description>Recent content on</description><generator>Hugo</generator><language>fr</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0100</lastBuildDate><atom:link href="http://localhost:1313/career_site/fr/index.xml" rel="self" type="application/rss+xml"/><item><title>Poste #3</title><link>http://localhost:1313/career_site/fr/experience/job-3/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0100</pubDate><guid>http://localhost:1313/career_site/fr/experience/job-3/</guid><description>&lt;h2 id="réparer-le-monde-un-octet-à-la-fois"&gt;Réparer le monde, un octet à la fois&lt;/h2&gt;
+&lt;p&gt;Prise de contrôle hostile - qui est le patron maintenant !&lt;/p&gt;</description></item><item><title>Poste #2</title><link>http://localhost:1313/career_site/fr/experience/job-2/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0100</pubDate><guid>http://localhost:1313/career_site/fr/experience/job-2/</guid><description>&lt;h2 id="réparer-le-monde-un-octet-à-la-fois"&gt;Réparer le monde, un octet à la fois&lt;/h2&gt;
+&lt;p&gt;Poursuivant la quête.&lt;/p&gt;</description></item><item><title>Accueil</title><link>http://localhost:1313/career_site/fr/home/home/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/career_site/fr/home/home/</guid><description>&lt;section id="section-vedette" class="rad-showcase rad-showcase--index rad-animation-group rad-fade-down"&gt;
  &lt;div id="main-content"&gt;
  
 
@@ -45,14 +45,14 @@
  
  
 
- &lt;source srcset="http://localhost:1313/my_career_site/images/showcase/showcase_hu_5d16714d182aafc1.webp 1x, http://localhost:1313/my_career_site/images/showcase/showcase_hu_2fb49da42e13e138.webp 2x" type="image/webp" /&gt;
- &lt;source srcset="http://localhost:1313/my_career_site/images/showcase/showcase_hu_d9577bce8df41dd2.png 1x, http://localhost:1313/my_career_site/images/showcase/showcase_hu_9ab6917260c7008d.png 2x" type="image/png"&gt;
+ &lt;source srcset="http://localhost:1313/career_site/images/showcase/showcase_hu_5d16714d182aafc1.webp 1x, http://localhost:1313/career_site/images/showcase/showcase_hu_2fb49da42e13e138.webp 2x" type="image/webp" /&gt;
+ &lt;source srcset="http://localhost:1313/career_site/images/showcase/showcase_hu_d9577bce8df41dd2.png 1x, http://localhost:1313/career_site/images/showcase/showcase_hu_9ab6917260c7008d.png 2x" type="image/png"&gt;
 
  &lt;img
  width="639"
  height="853"
  class="lozad img-responsive "
- data-src="http://localhost:1313/my_career_site/images/showcase/showcase_hu_d9577bce8df41dd2.png"
+ data-src="http://localhost:1313/career_site/images/showcase/showcase_hu_d9577bce8df41dd2.png"
  alt=''
  src="data:image/gif;base64,R0lGODlhBwACAIAAAP///wAAACH5BAEAAAEALAAAAAAHAAIAAAIDjI9YADs="
  loading="lazy"
@@ -129,7 +129,7 @@
  
  
  &lt;a
- href="http://localhost:1313/my_career_site"
+ href="http://localhost:1313/career_site"
  target="_blank"
  rel="noopener noreferrer"
  aria-label="dribbble"
@@ -139,7 +139,7 @@
  
  
  &lt;a
- href="http://localhost:1313/my_career_site"
+ href="http://localhost:1313/career_site"
  target="_blank"
  rel="noopener noreferrer"
  aria-label="behance"
@@ -149,7 +149,7 @@
  
  
  &lt;a
- href="http://localhost:1313/my_career_site"
+ href="http://localhost:1313/career_site"
  target="_blank"
  rel="noopener noreferrer"
  aria-label="youtube"
@@ -179,7 +179,7 @@
  
  
  &lt;a
- href="http://localhost:1313/my_career_site"
+ href="http://localhost:1313/career_site"
  target="_blank"
  rel="noopener noreferrer"
  aria-label="codepen"
@@ -327,14 +327,14 @@
  
  
 
- &lt;source srcset="http://localhost:1313/my_career_site/images/about/user-picture_hu_31b09907e5429c0f.webp 1x, http://localhost:1313/my_career_site/images/about/user-picture_hu_4c912b72bf56d96c.webp 2x" type="image/webp" /&gt;
- &lt;source srcset="http://localhost:1313/my_career_site/images/about/user-picture_hu_f5547d25d6297841.png 1x, http://localhost:1313/my_career_site/images/about/user-picture_hu_85f555403ef48a45.png 2x" type="image/png"&gt;
+ &lt;source srcset="http://localhost:1313/career_site/images/about/user-picture_hu_31b09907e5429c0f.webp 1x, http://localhost:1313/career_site/images/about/user-picture_hu_4c912b72bf56d96c.webp 2x" type="image/webp" /&gt;
+ &lt;source srcset="http://localhost:1313/career_site/images/about/user-picture_hu_f5547d25d6297841.png 1x, http://localhost:1313/career_site/images/about/user-picture_hu_85f555403ef48a45.png 2x" type="image/png"&gt;
 
  &lt;img
  width="1500"
  height="2000"
  class="lozad img-responsive image-left-overflow"
- data-src="http://localhost:1313/my_career_site/images/about/user-picture_hu_f5547d25d6297841.png"
+ data-src="http://localhost:1313/career_site/images/about/user-picture_hu_f5547d25d6297841.png"
  alt=''
  src="data:image/gif;base64,R0lGODlhBwACAIAAAP///wAAACH5BAEAAAEALAAAAAAHAAIAAAIDjI9YADs="
  loading="lazy"
@@ -414,7 +414,7 @@
 
  
  &lt;div class="experience"&gt;
- &lt;a href="http://localhost:1313/my_career_site/fr/experience/job-3/" class="experience__link"&gt;
+ &lt;a href="http://localhost:1313/career_site/fr/experience/job-3/" class="experience__link"&gt;
  &lt;div class="experience__header"&gt;
  
  
@@ -436,7 +436,7 @@
  &lt;/div&gt;
  
  &lt;div class="experience"&gt;
- &lt;a href="http://localhost:1313/my_career_site/fr/experience/job-2/" class="experience__link"&gt;
+ &lt;a href="http://localhost:1313/career_site/fr/experience/job-2/" class="experience__link"&gt;
  &lt;div class="experience__header"&gt;
  
  
@@ -527,4 +527,4 @@
  &lt;/div&gt;
 &lt;/section&gt;
 &lt;h2 id="expérience-liste"&gt;Expérience (liste)&lt;/h2&gt;
-&lt;p&gt;Vous pouvez voir une autre version, utilisant &lt;code&gt;experience-list&lt;/code&gt; sur &lt;a href="http://localhost:1313/my_career_site/cv"&gt;/cv&lt;/a&gt;.&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;Vous pouvez voir une autre version, utilisant &lt;code&gt;experience-list&lt;/code&gt; sur &lt;a href="http://localhost:1313/career_site/cv"&gt;/cv&lt;/a&gt;.&lt;/p&gt;</description></item></channel></rss>

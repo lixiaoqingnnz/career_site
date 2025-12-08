@@ -34,25 +34,6 @@
       </div>
     {{ end }}
 
-    <!-- Core Domains -->
-    {{ with .Params.core_domains }}
-      <h2 class="ai-techstack-group-title">🤖 Core AI Domains</h2>
-      <div class="core-domains-section">
-        {{ range . }}
-          <div class="core-domain-card">
-            <h3>{{ .title }}</h3>
-            {{ with .items }}
-              <ul>
-                {{ range . }}
-                  <li>{{ . }}</li>
-                {{ end }}
-              </ul>
-            {{ end }}
-          </div>
-        {{ end }}
-      </div>
-    {{ end }}
-
   </div>
 
 {{ end }}

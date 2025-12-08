@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Homes on Li Xiaoqing - Personal Portfolio</title><link>http://localhost:1313/my_career_site/home/</link><description>Recent content in Homes on Li Xiaoqing - Personal Portfolio</description><generator>Hugo</generator><language>en</language><atom:link href="http://localhost:1313/my_career_site/home/index.xml" rel="self" type="application/rss+xml"/><item><title>Home</title><link>http://localhost:1313/my_career_site/home/home/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/my_career_site/home/home/</guid><description>&lt;section id="showcase" class="rad-showcase rad-showcase--index rad-animation-group rad-fade-down"&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Homes on Li Xiaoqing - Personal Portfolio</title><link>http://localhost:1313/career_site/home/</link><description>Recent content in Homes on Li Xiaoqing - Personal Portfolio</description><generator>Hugo</generator><language>en</language><atom:link href="http://localhost:1313/career_site/home/index.xml" rel="self" type="application/rss+xml"/><item><title>Home</title><link>http://localhost:1313/career_site/home/home/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/career_site/home/home/</guid><description>&lt;section id="showcase" class="rad-showcase rad-showcase--index rad-animation-group rad-fade-down"&gt;
  &lt;div id="main-content"&gt;
  
 
@@ -43,14 +43,14 @@
  
  
 
- &lt;source srcset="http://localhost:1313/my_career_site/images/showcase/showcase_hu_465a36d7767efb49.webp 1x, http://localhost:1313/my_career_site/images/showcase/showcase_hu_8659059d6d8eedc.webp 2x" type="image/webp" /&gt;
- &lt;source srcset="http://localhost:1313/my_career_site/images/showcase/showcase_hu_c8df57d2af0712ba.png 1x, http://localhost:1313/my_career_site/images/showcase/showcase_hu_87e66b2c3f4d6d2e.png 2x" type="image/png"&gt;
+ &lt;source srcset="http://localhost:1313/career_site/images/showcase/showcase_hu_465a36d7767efb49.webp 1x, http://localhost:1313/career_site/images/showcase/showcase_hu_8659059d6d8eedc.webp 2x" type="image/webp" /&gt;
+ &lt;source srcset="http://localhost:1313/career_site/images/showcase/showcase_hu_c8df57d2af0712ba.png 1x, http://localhost:1313/career_site/images/showcase/showcase_hu_87e66b2c3f4d6d2e.png 2x" type="image/png"&gt;
 
  &lt;img
  width="383"
  height="511"
  class="lozad img-responsive "
- data-src="http://localhost:1313/my_career_site/images/showcase/showcase_hu_c8df57d2af0712ba.png"
+ data-src="http://localhost:1313/career_site/images/showcase/showcase_hu_c8df57d2af0712ba.png"
  alt=''
  src="data:image/gif;base64,R0lGODlhBwACAIAAAP///wAAACH5BAEAAAEALAAAAAAHAAIAAAIDjI9YADs="
  loading="lazy"
@@ -173,14 +173,14 @@
  
  
 
- &lt;source srcset="http://localhost:1313/my_career_site/images/about/user-picture_hu_fde84b5a66bc79ba.webp 1x, http://localhost:1313/my_career_site/images/about/user-picture_hu_ad2dd1dc88217b68.webp 2x" type="image/webp" /&gt;
- &lt;source srcset="http://localhost:1313/my_career_site/images/about/user-picture_hu_2a40c2719216eea1.png 1x, http://localhost:1313/my_career_site/images/about/user-picture_hu_607cffa85e6ccdda.png 2x" type="image/png"&gt;
+ &lt;source srcset="http://localhost:1313/career_site/images/about/user-picture_hu_fde84b5a66bc79ba.webp 1x, http://localhost:1313/career_site/images/about/user-picture_hu_ad2dd1dc88217b68.webp 2x" type="image/webp" /&gt;
+ &lt;source srcset="http://localhost:1313/career_site/images/about/user-picture_hu_2a40c2719216eea1.png 1x, http://localhost:1313/career_site/images/about/user-picture_hu_607cffa85e6ccdda.png 2x" type="image/png"&gt;
 
  &lt;img
  width="450"
  height="600"
  class="lozad img-responsive image-left-overflow"
- data-src="http://localhost:1313/my_career_site/images/about/user-picture_hu_2a40c2719216eea1.png"
+ data-src="http://localhost:1313/career_site/images/about/user-picture_hu_2a40c2719216eea1.png"
  alt=''
  src="data:image/gif;base64,R0lGODlhBwACAIAAAP///wAAACH5BAEAAAEALAAAAAAHAAIAAAIDjI9YADs="
  loading="lazy"
@@ -195,7 +195,7 @@
  This content is using the &lt;code&gt;about-section&lt;/code&gt; shortcode. &lt;br/&gt;You can write &lt;code&gt;HTML&lt;/code&gt;, as long as you &lt;em&gt;wrap it&lt;/em&gt; accordingly. 
  &lt;/div&gt;
  
- &lt;a href="http://localhost:1313/my_career_site/skills" target="_blank" class="btn btn-primary"&gt;
+ &lt;a href="http://localhost:1313/career_site/skills" target="_blank" class="btn btn-primary"&gt;
  &lt;i class="icon-user"&gt;&lt;/i&gt;
  Check my skills
  &lt;/a&gt;
@@ -274,13 +274,13 @@
 
  
  &lt;div class="experience"&gt;
- &lt;a href="http://localhost:1313/my_career_site/experience/job-4/" class="experience__link"&gt;
+ &lt;a href="http://localhost:1313/career_site/experience/job-4/" class="experience__link"&gt;
  &lt;div class="experience__header"&gt;
  
  
  
  &lt;img 
- src="http://localhost:1313/my_career_site/images/experience/nus_hu_d9acfdd36a33e50f.webp" 
+ src="http://localhost:1313/career_site/images/experience/nus_hu_d9acfdd36a33e50f.webp" 
  alt=" logo"
  class="experience__company-logo"
  loading="lazy"
@@ -304,13 +304,13 @@ Responsibilities: Built production-oriented Graph RAG pipelines (vector DB, chun
  &lt;/div&gt;
  
  &lt;div class="experience"&gt;
- &lt;a href="http://localhost:1313/my_career_site/experience/job-3/" class="experience__link"&gt;
+ &lt;a href="http://localhost:1313/career_site/experience/job-3/" class="experience__link"&gt;
  &lt;div class="experience__header"&gt;
  
  
  
  &lt;img 
- src="http://localhost:1313/my_career_site/images/experience/nuhs_hu_2305bd5bab74565f.webp" 
+ src="http://localhost:1313/career_site/images/experience/nuhs_hu_2305bd5bab74565f.webp" 
  alt=" logo"
  class="experience__company-logo"
  loading="lazy"
@@ -334,13 +334,13 @@ Responsibilities: Contributed to multiple AI and computer vision projects for me
  &lt;/div&gt;
  
  &lt;div class="experience"&gt;
- &lt;a href="http://localhost:1313/my_career_site/experience/job-2/" class="experience__link"&gt;
+ &lt;a href="http://localhost:1313/career_site/experience/job-2/" class="experience__link"&gt;
  &lt;div class="experience__header"&gt;
  
  
  
  &lt;img 
- src="http://localhost:1313/my_career_site/images/experience/edan_hu_b8361213c6f78937.webp" 
+ src="http://localhost:1313/career_site/images/experience/edan_hu_b8361213c6f78937.webp" 
  alt=" logo"
  class="experience__company-logo"
  loading="lazy"
@@ -364,13 +364,13 @@ Responsibilities: Designed and implemented embedded software for a simulator usi
  &lt;/div&gt;
  
  &lt;div class="experience"&gt;
- &lt;a href="http://localhost:1313/my_career_site/experience/job-1/" class="experience__link"&gt;
+ &lt;a href="http://localhost:1313/career_site/experience/job-1/" class="experience__link"&gt;
  &lt;div class="experience__header"&gt;
  
  
  
  &lt;img 
- src="http://localhost:1313/my_career_site/images/experience/shanghaijiaotong_hu_f51404ea12a12d10.webp" 
+ src="http://localhost:1313/career_site/images/experience/shanghaijiaotong_hu_f51404ea12a12d10.webp" 
  alt=" logo"
  class="experience__company-logo"
  loading="lazy"
@@ -432,7 +432,7 @@ Responsibilities: Designed and implemented embedded software for a simulator usi
  
  &lt;div class="col-12 col-lg-4"&gt;
  &lt;a
- href='http://localhost:1313/my_career_site/skills'
+ href='http://localhost:1313/career_site/skills'
  class="btn btn-frameless w-100"
  target="_blank"
  rel="noopener noreferrer"
@@ -477,7 +477,7 @@ Responsibilities: Designed and implemented embedded software for a simulator usi
  
  
  
- &lt;img src="http://localhost:1313/my_career_site/images/experience/nus_hu_d9acfdd36a33e50f.webp" alt=" logo"
+ &lt;img src="http://localhost:1313/career_site/images/experience/nus_hu_d9acfdd36a33e50f.webp" alt=" logo"
  class="experience__company-logo" loading="lazy"&gt;
  
  &lt;div class="experience__meta"&gt;
