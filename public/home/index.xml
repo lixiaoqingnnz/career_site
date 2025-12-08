@@ -1,0 +1,493 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Homes on Li Xiaoqing - Personal Portfolio</title><link>http://localhost:1313/my_career_site/home/</link><description>Recent content in Homes on Li Xiaoqing - Personal Portfolio</description><generator>Hugo</generator><language>en</language><atom:link href="http://localhost:1313/my_career_site/home/index.xml" rel="self" type="application/rss+xml"/><item><title>Home</title><link>http://localhost:1313/my_career_site/home/home/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/my_career_site/home/home/</guid><description>&lt;section id="showcase" class="rad-showcase rad-showcase--index rad-animation-group rad-fade-down"&gt;
+ &lt;div id="main-content"&gt;
+ 
+
+
+ 
+
+ &lt;div class="showcase-section row flex-column-reverse flex-md-row rad-fade-down rad-waiting rad-animate"&gt;
+ &lt;div class="col-12 col-sm-12 col-md-6 col-lg-6 col-xl-6"&gt;
+ &lt;h1 class="display-1"&gt;
+ Li Xiaoqing
+ &lt;/h1&gt;
+ &lt;h2 class="display-5"&gt;
+ &lt;span&gt;&lt;span class="hero-subtitle-animated"&gt;Researcher, Coder, Problem Solver&lt;/span&gt;&lt;/span&gt;
+ &lt;/h2&gt;
+ &lt;div class="lead"&gt;
+ Hi, I am &lt;strong&gt;Li Xiaoqing&lt;/strong&gt;, a &lt;em&gt; AI researcher and coder&lt;/em&gt; who loves turning messy real-world data into useful ideas.&lt;br/&gt;&lt;br/&gt;My work spans &lt;code&gt;traditional machine learning, deep learning, and modern generative models&lt;/code&gt;, including large language models (LLMs), diffusion-based synthesis, knowledge-graph reasoning, and retrieval-augmented generation (RAG). I am broadly interested in developing intelligent systems that combine learning, reasoning, and real-world data processing to achieve robust and scalable AI capabilities.&lt;br/&gt;&lt;br/&gt;I am also committed to transforming these techniques into practical, real-world solutions—such as interactive websites, data-driven applications, and end-to-end LLM pipelines that enhance automation, analysis, and decision-making.
+ &lt;/div&gt;
+ 
+ &lt;/div&gt;
+ &lt;div class="col-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 profile-image"&gt;
+ 
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+ 
+ 
+
+
+ &lt;picture class=""&gt;
+ 
+ 
+
+ &lt;source srcset="http://localhost:1313/my_career_site/images/showcase/showcase_hu_465a36d7767efb49.webp 1x, http://localhost:1313/my_career_site/images/showcase/showcase_hu_8659059d6d8eedc.webp 2x" type="image/webp" /&gt;
+ &lt;source srcset="http://localhost:1313/my_career_site/images/showcase/showcase_hu_c8df57d2af0712ba.png 1x, http://localhost:1313/my_career_site/images/showcase/showcase_hu_87e66b2c3f4d6d2e.png 2x" type="image/png"&gt;
+
+ &lt;img
+ width="383"
+ height="511"
+ class="lozad img-responsive "
+ data-src="http://localhost:1313/my_career_site/images/showcase/showcase_hu_c8df57d2af0712ba.png"
+ alt=''
+ src="data:image/gif;base64,R0lGODlhBwACAIAAAP///wAAACH5BAEAAAEALAAAAAAHAAIAAAIDjI9YADs="
+ loading="lazy"
+ decoding="async"
+ /&gt;
+ &lt;/picture&gt;
+
+
+
+
+ &lt;/div&gt;
+ &lt;div class="col-12 inner-content"&gt;
+ 
+
+
+
+
+
+&lt;div class="container"&gt;
+ &lt;div class="row platform-links shortcode"&gt;
+ &lt;div class="col-12"&gt;
+ 
+ 
+ &lt;a
+ href="https://www.linkedin.com/in/xiaoqing-li-17a034247/"
+ target="_blank"
+ rel="noopener noreferrer"
+ aria-label="linkedin"
+ &gt;&lt;i class="icon-linkedin"&gt;&lt;/i&gt;
+ &lt;/a&gt;
+
+ 
+ 
+ &lt;a
+ href="https://github.com/lixiaoqingnnz"
+ target="_blank"
+ rel="noopener noreferrer"
+ aria-label="square-github"
+ &gt;&lt;i class="icon-square-github"&gt;&lt;/i&gt;
+ &lt;/a&gt;
+
+ 
+ 
+ &lt;a
+ href="https://medium.com/@lixiaoqing.nnz"
+ target="_blank"
+ rel="noopener noreferrer"
+ aria-label="medium"
+ &gt;&lt;i class="icon-medium"&gt;&lt;/i&gt;
+ &lt;/a&gt;
+
+ 
+ 
+ &lt;a
+ href="https://scholar.google.com/citations?user=diqbYLoAAAAJ&amp;amp;hl=en"
+ target="_blank"
+ rel="noopener noreferrer"
+ aria-label="quote-left"
+ &gt;&lt;i class="icon-quote-left"&gt;&lt;/i&gt;
+ &lt;/a&gt;
+
+
+&lt;/div&gt;
+ &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+ &lt;/div&gt;
+ 
+
+ &lt;/div&gt;
+
+
+ &lt;div class="row platform-links"&gt;
+ &lt;div class="col-12"&gt;&lt;/div&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+ 
+&lt;/section&gt;
+
+
+&lt;!-- 
+
+
+
+
+
+
+
+
+
+
+
+&lt;section id="about" class="section rad-animation-group pb-0"&gt;
+ &lt;div class="rad-fade-down"&gt;
+ &lt;div class="row d-flex flex-column-reverse flex-md-row"&gt;
+ &lt;div class="about__profile-picture col-12 col-md-6"&gt;
+ 
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+ 
+ 
+
+
+ &lt;picture class=""&gt;
+ 
+ 
+
+ &lt;source srcset="http://localhost:1313/my_career_site/images/about/user-picture_hu_fde84b5a66bc79ba.webp 1x, http://localhost:1313/my_career_site/images/about/user-picture_hu_ad2dd1dc88217b68.webp 2x" type="image/webp" /&gt;
+ &lt;source srcset="http://localhost:1313/my_career_site/images/about/user-picture_hu_2a40c2719216eea1.png 1x, http://localhost:1313/my_career_site/images/about/user-picture_hu_607cffa85e6ccdda.png 2x" type="image/png"&gt;
+
+ &lt;img
+ width="450"
+ height="600"
+ class="lozad img-responsive image-left-overflow"
+ data-src="http://localhost:1313/my_career_site/images/about/user-picture_hu_2a40c2719216eea1.png"
+ alt=''
+ src="data:image/gif;base64,R0lGODlhBwACAIAAAP///wAAACH5BAEAAAEALAAAAAAHAAIAAAIDjI9YADs="
+ loading="lazy"
+ decoding="async"
+ /&gt;
+ &lt;/picture&gt;
+
+ &lt;/div&gt;
+ &lt;div class="col-12 col-md-6 my-auto"&gt;
+ &lt;h1&gt;About me&lt;/h1&gt;
+ &lt;div class="about-me content lead"&gt;
+ This content is using the &lt;code&gt;about-section&lt;/code&gt; shortcode. &lt;br/&gt;You can write &lt;code&gt;HTML&lt;/code&gt;, as long as you &lt;em&gt;wrap it&lt;/em&gt; accordingly. 
+ &lt;/div&gt;
+ 
+ &lt;a href="http://localhost:1313/my_career_site/skills" target="_blank" class="btn btn-primary"&gt;
+ &lt;i class="icon-user"&gt;&lt;/i&gt;
+ Check my skills
+ &lt;/a&gt;
+ 
+ &lt;/div&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+&lt;/section&gt; --&gt;
+
+
+
+
+&lt;section
+ id="education"
+ class="section section--border-bottom rad-animation-group"
+&gt;
+ &lt;div class="container-education"&gt;
+ &lt;div class="row rad-fade-down"&gt;
+ &lt;div class="col-12"&gt;
+ &lt;h2&gt;🎓 Formal Education&lt;/h2&gt;
+ &lt;div class="row pt-2 pt-md-4"&gt;
+ 
+ &lt;div class="col-12 col-sm-6 mb-4 mb-sm-0"&gt;
+ &lt;div class="education"&gt;
+ &lt;div class="education__date"&gt;Sep 2018 - Jun 2022&lt;/div&gt;
+ &lt;div class="education__title"&gt;Shenzhen University&lt;/div&gt;
+ &lt;div class="education__degree"&gt;B.Eng. in Biomedical Engineering&lt;/div&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+ 
+ &lt;div class="col-12 col-sm-6 mb-4 mb-sm-0"&gt;
+ &lt;div class="education"&gt;
+ &lt;div class="education__date"&gt;Aug 2022 - Jan 2024&lt;/div&gt;
+ &lt;div class="education__title"&gt;National University of Singapore&lt;/div&gt;
+ &lt;div class="education__degree"&gt;M.Sc. in Biomedical Engineering&lt;/div&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+ 
+ &lt;/div&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+&lt;/section&gt;
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+
+
+&lt;section id="experience-single" class="section-experience section section--border-bottom rad-animation-group flex-grow-1"&gt;
+ &lt;div class="row flex-column-reverse flex-md-row rad-fade-down"&gt;
+ &lt;div class="experience-list col-12 col-md-6"&gt;
+ &lt;h2&gt;
+ 
+ 💼 My job experience
+ 
+ &lt;/h2&gt;
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ &lt;div class="experience"&gt;
+ &lt;a href="http://localhost:1313/my_career_site/experience/job-4/" class="experience__link"&gt;
+ &lt;div class="experience__header"&gt;
+ 
+ 
+ 
+ &lt;img 
+ src="http://localhost:1313/my_career_site/images/experience/nus_hu_d9acfdd36a33e50f.webp" 
+ alt=" logo"
+ class="experience__company-logo"
+ loading="lazy"
+ /&gt;
+ 
+ &lt;div class="experience__meta"&gt;
+ &lt;div class="experience__date"&gt;Jun 2024 - present&lt;/div&gt;
+ &lt;div class="experience__title"&gt;Research Associate&lt;/div&gt;
+ &lt;div class="experience__company"&gt;
+ National University of Singapore.
+ &lt;span class="experience__location"&gt;Singapore&lt;/span&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+ &lt;div class="experience__description d-none d-print-block"&gt;
+ &lt;h1&gt;&lt;/h1&gt;
+ Brief introduction: AI Research Engineer – multimodal &amp;amp; knowledge-enhanced systems.
+Responsibilities: Built production-oriented Graph RAG pipelines (vector DB, chunking, embedding optimization, retrieval tuning), which improved retrieval accuracy and consistence, and enhanced structured reasoning for clinical knowledge bases. (Paper under review) Conducted research on generative AI models (diffusion models, GANs) for synthesizing medical and time-series data, with my proposed FHRDiff model achieving an overall 75.3% performance improvement over prior state-of-the-art methods. Paper published Developed an automated OCR pipeline for extracting blood pressure monitor readings, reducing manual transcription workload and significantly improving clinical data digitization efficiency. Utilized Weights &amp;amp; Biases for experiment tracking and model evaluation, improving reproducibility and reducing debugging/training iteration time. Curated and preprocessed multimodal datasets (text, image, signal, and knowledge-graph data), enabling cleaner data pipelines and reducing preprocessing effort for downstream ML/LLM workflows. 
+ &lt;/div&gt;
+ &lt;/div&gt;
+ &lt;/a&gt;
+ &lt;/div&gt;
+ 
+ &lt;div class="experience"&gt;
+ &lt;a href="http://localhost:1313/my_career_site/experience/job-3/" class="experience__link"&gt;
+ &lt;div class="experience__header"&gt;
+ 
+ 
+ 
+ &lt;img 
+ src="http://localhost:1313/my_career_site/images/experience/nuhs_hu_2305bd5bab74565f.webp" 
+ alt=" logo"
+ class="experience__company-logo"
+ loading="lazy"
+ /&gt;
+ 
+ &lt;div class="experience__meta"&gt;
+ &lt;div class="experience__date"&gt;Jun 2023 - Dec 2023&lt;/div&gt;
+ &lt;div class="experience__title"&gt;Data Scientist - Intern&lt;/div&gt;
+ &lt;div class="experience__company"&gt;
+ National University Health System.
+ &lt;span class="experience__location"&gt;Singapore&lt;/span&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+ &lt;div class="experience__description d-none d-print-block"&gt;
+ &lt;h1&gt;&lt;/h1&gt;
+ Brief introduction: Deep learning research engineer – medical diagnostics.
+Responsibilities: Contributed to multiple AI and computer vision projects for medical diagnostics, improving classification and segmentation performance by 5% through model refinement and data-quality improvements. Trained, fine-tuned, and evaluated deep learning models including U-Net, YOLOv5, ResNet, and diffusion transformers, achieving measurable gains in accuracy and robustness through systematic augmentation, hyperparameter optimization, and cross-validation. Collaborated using Git and Git Flow for version control and experiment tracking, improving code reproducibility and team development efficiency in agile project settings. 
+ &lt;/div&gt;
+ &lt;/div&gt;
+ &lt;/a&gt;
+ &lt;/div&gt;
+ 
+ &lt;div class="experience"&gt;
+ &lt;a href="http://localhost:1313/my_career_site/experience/job-2/" class="experience__link"&gt;
+ &lt;div class="experience__header"&gt;
+ 
+ 
+ 
+ &lt;img 
+ src="http://localhost:1313/my_career_site/images/experience/edan_hu_b8361213c6f78937.webp" 
+ alt=" logo"
+ class="experience__company-logo"
+ loading="lazy"
+ /&gt;
+ 
+ &lt;div class="experience__meta"&gt;
+ &lt;div class="experience__date"&gt;Mar 2021 - Sep 2021&lt;/div&gt;
+ &lt;div class="experience__title"&gt;R&amp;amp;D Systems Engineer - Intern&lt;/div&gt;
+ &lt;div class="experience__company"&gt;
+ EDAN Instruments, Inc. .
+ &lt;span class="experience__location"&gt;Shenzhen, China&lt;/span&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+ &lt;div class="experience__description d-none d-print-block"&gt;
+ &lt;h1&gt;&lt;/h1&gt;
+ Brief introduction: Embedded system development and functional testing for dedical devices.
+Responsibilities: Designed and implemented embedded software for a simulator using C language and STM32 microcontrollers, enabling automated functional testing and improving test efficiency. Evaluated functional and business requirements for multiple medical device lines (patient monitors, ECG, OB/GYN, etc.), designed comprehensive test cases, and performed functional verification using both manual and automated testing frameworks. 
+ &lt;/div&gt;
+ &lt;/div&gt;
+ &lt;/a&gt;
+ &lt;/div&gt;
+ 
+ &lt;div class="experience"&gt;
+ &lt;a href="http://localhost:1313/my_career_site/experience/job-1/" class="experience__link"&gt;
+ &lt;div class="experience__header"&gt;
+ 
+ 
+ 
+ &lt;img 
+ src="http://localhost:1313/my_career_site/images/experience/shanghaijiaotong_hu_f51404ea12a12d10.webp" 
+ alt=" logo"
+ class="experience__company-logo"
+ loading="lazy"
+ /&gt;
+ 
+ &lt;div class="experience__meta"&gt;
+ &lt;div class="experience__date"&gt;2019 - 2021&lt;/div&gt;
+ &lt;div class="experience__title"&gt;Research Associate - Intern&lt;/div&gt;
+ &lt;div class="experience__company"&gt;
+ Shanghai Jiao Tong University.
+ &lt;span class="experience__location"&gt;Shanghai, China&lt;/span&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+ &lt;div class="experience__description d-none d-print-block"&gt;
+ &lt;h1&gt;&lt;/h1&gt;
+ Brief introduction: I participated in the project ”Effect of Nutritional Status of Pregnant Women on Fetal Health”, and I collected data and preprocessed the samples to ensure the data reliability and integrity of the follow-up clinical trails, which is essential to the project. Responsibilities: Participated in the project “Effect of Nutritional Status of Pregnant Women on Fetal Health”. Communicated with doctors and target pregnant women in hospital, requested their consent to provide data for the project to ensure the data reliability and integrity of the following-up clinical trails. Completed the collection of data and pre-preprocessed samples via centrifugation and separation. Designed a questionnaire survey and completed data analysis with SPSS and Matlab software. Wrote academic paper (Building the Internet of Things platform for smart maternal healthcare services with wearable devices and cloud computing), and published in a high-quality journal as the first author. 
+ &lt;/div&gt;
+ &lt;/div&gt;
+ &lt;/a&gt;
+ &lt;/div&gt;
+ 
+
+ 
+ &lt;/div&gt;
+ &lt;div class="experience-description col-12 col-md-6"&gt;
+ 
+ 
+
+
+
+
+
+
+
+
+
+&lt;div class="container-experience"&gt;
+ &lt;div class="row"&gt;
+ &lt;h2&gt;Experience&lt;/h2&gt;
+ &lt;div class="lead"&gt;I work on &lt;strong&gt;ML research, LLM pipelines, and system development&lt;/strong&gt;, with experience turning algorithms into practical tools for real-world use.&lt;br&gt;&lt;/br&gt;Please click on each experience to view more details!&lt;/div&gt;
+ &lt;/div&gt;
+
+ &lt;div class="row"&gt;
+ 
+ &lt;div class="col-12 col-lg-4"&gt;
+ &lt;a
+ href='https://www.linkedin.com/in/xiaoqing-li-17a034247/'
+ class="btn btn-primary btn-block w-100"
+ target="_blank"
+ rel="noopener noreferrer"
+ &gt;
+ &lt;i class="icon-linkedin"&gt;&lt;/i&gt;
+ See in linkedin
+ &lt;i class="icon-arrow-right"&gt;&lt;/i&gt;
+ &lt;/a&gt;
+ &lt;/div&gt;
+ 
+
+ 
+ &lt;div class="col-12 col-lg-4"&gt;
+ &lt;a
+ href='http://localhost:1313/my_career_site/skills'
+ class="btn btn-frameless w-100"
+ target="_blank"
+ rel="noopener noreferrer"
+ &gt;
+ 
+ Skills
+ &lt;/a&gt;
+ &lt;/div&gt;
+ 
+
+ 
+ &lt;/div&gt;
+&lt;/div&gt;
+
+ &lt;/div&gt;
+ &lt;/div&gt;
+&lt;/section&gt;
+&lt;!-- 
+
+
+
+
+
+
+
+
+
+&lt;section id="experience-list-shortcode" class="section-experience section section--border-bottom rad-animation-group flex-grow-1 "&gt;
+ &lt;div class="row flex-column-reverse flex-md-row rad-fade-down"&gt;
+ &lt;div class="experience-list col-12 mt-5 mt-sm-0"&gt;
+ 
+ &lt;h2 class="section__title mb-4"&gt;Experience&lt;/h2&gt;
+ 
+ 
+ 
+
+ 
+
+ 
+ &lt;div class="experience row"&gt;
+ &lt;div class="experience__header col-12 col-md-3 d-flex align-items-start"&gt;
+ 
+ 
+ 
+ &lt;img src="http://localhost:1313/my_career_site/images/experience/nus_hu_d9acfdd36a33e50f.webp" alt=" logo"
+ class="experience__company-logo" loading="lazy"&gt;
+ 
+ &lt;div class="experience__meta"&gt;
+ &lt;div class="experience__date"&gt;Jun 2024 - present&lt;/div&gt;
+ &lt;div class="experience__title"&gt;Research Associate&lt;/div&gt;
+ &lt;div class="experience__company"&gt;National University of Singapore. &lt;span class="experience__location"&gt;
+ Singapore&lt;/span&gt;&lt;/div&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+ &lt;div class="experience__description d-print-block col-12 col-md-9 mt-3 mt-md-0"&gt;
+ &lt;h1&gt;&lt;/h1&gt;
+ &lt;h4 id="brief-introduction"&gt;Brief introduction:&lt;/h4&gt;
+&lt;p&gt;AI Research Engineer – multimodal &amp;amp; knowledge-enhanced systems.&lt;/p&gt;</description></item></channel></rss>

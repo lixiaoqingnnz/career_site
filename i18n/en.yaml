@@ -1,0 +1,75 @@
+## Meta tags
+## Meta tags
+- id: "meta_title"
+  translation: "Li Xiaoqing - Personal Portfolio"   # ← 建议改成你的名字 + 简短身份
+- id: "meta_description"
+  translation: "Portfolio of Li Xiaoqing, featuring experience in ML research, LLM pipelines, data engineering, and applied AI projects."  # ← 你已经改得不错了
+- id: "meta_keywords"
+  translation: "Li Xiaoqing, machine learning, data science, LLM, AI engineer, portfolio, Singapore"  # ← 換成与你相关的关键词
+- id: "meta_author"
+  translation: "Li Xiaoqing"   # ← 改成你自己
+- id: "meta_image"
+  translation: "/img/general/og-image.jpg"  # 如果以后有自己设计的分享图，可以换成自己的路径
+
+## Header
+
+- id: "logo_alt"
+  translation: "Adritian logo"
+
+- id: "logo_text1"
+  translation: "Adritian"
+
+- id: "logo_text2"
+  translation: "Demo"
+
+## General
+- id: "skipToMainContent"
+  translation: "Skip to main content"
+
+- id: "toggle_navigation"
+  translation: "Toggle navigation"
+
+## Footer
+- id: "footer_notice"
+  translation: "© 2025 Li Xiaoqing. Powered by the Adritian Hugo theme."
+
+
+- id: "language"
+  translation: "Language"
+
+- id: "toggle_theme"
+  translation: "Toggle theme"
+
+- id: "theme_dark"
+  translation: "🌑 Dark"
+- id: "theme_light"
+  translation: "☀️ Light"
+- id: "theme_auto"
+  translation: "✨ Auto"
+
+## Homepage head title
+- id: "head_title"
+  translation: "Li Xiaoqing - Personal Portfolio"
+
+- id: "head_description"
+  translation: "Portfolio of Li Xiaoqing, featuring experience in ML research, LLM pipelines, data engineering, and applied AI projects."
+
+
+## Blog
+- id: "read_more"
+  translation: "Read more"
+
+- id: "published_on"
+  translation: "Published on "
+
+- id: "continue_reading"
+  translation: "Continue reading"
+
+## 404 Page
+- id: "404_title"
+  translation: "Page not found"
+- id: "404_description"  
+  translation: "Sorry, but the page you were looking for could not be found."
+- id: "404_button"
+  translation: "Back to homepage"
+

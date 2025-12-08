@@ -1,0 +1,293 @@
+
+  
+  /* 容器 */
+  .ai-techstack-container {
+    width: 90%;
+    max-width: 1200px;
+    margin: auto;
+  }
+  
+  /* 大标题 */
+  .ai-techstack-title {
+    text-align: center;
+    font-size: 2.5rem;
+    margin-bottom: 0.5rem;
+    font-weight: 800;
+  }
+  
+  /* 副标题 */
+  .ai-techstack-subtitle {
+    text-align: center;
+    margin-bottom: 3rem;
+    font-size: 1.2rem;
+    opacity: 0.8;
+  }
+  
+  /* 小组标题 */
+  .ai-techstack-group-title {
+    text-align: center;
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+    font-size: 1.6rem;
+    font-weight: 700;
+  }
+  
+  /* 固定三列 layout */
+  .ai-techstack-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 2rem;
+  }
+  
+  /* 卡片 */
+  html[data-bs-theme="light"] .ai-techstack-card, html[data-bs-theme="dark"] .ai-techstack-card {
+    background: rgba(255, 255, 255, 0.392); /* 半透明 */
+    border-radius: 16px;
+    padding: 1.5rem;
+    backdrop-filter: blur(12px); /* 毛玻璃 */
+    border: 1px solid rgba(255, 255, 255, 0.4);
+    box-shadow: 0 8px 24px rgba(0,0,0,0.08);
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+  }
+  
+  /* 卡片 hover 效果 */
+  .ai-techstack-card:hover {
+    transform: translateY(-6px);
+    box-shadow: 0 12px 32px rgba(0,0,0,0.12);
+  }
+  
+  /* 标题 */
+  .ai-techstack-card h3 {
+    margin-bottom: 1rem;
+    font-size: 1.2rem;
+    font-weight: 700;
+  }
+  
+  /* 列表 */
+  .ai-techstack-card ul {
+    padding-left: 1rem;
+  }
+  
+  .ai-techstack-card li {
+    margin-bottom: 0.4rem;
+  }
+
+
+/* 控制 Frameworks & Tools 图标大小 */
+.ai-tool-icon {
+    width: 35px;
+    height: 35px;
+    margin-bottom: 8px;
+}
+
+
+/* 图标 + 名称居中排布 */
+.ai-tool-item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 4px;
+    text-align: center;
+}
+
+/* 让图标区域自动三列布局 */
+.ai-tool-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 18px;
+    margin-top: 12px;
+}
+
+  
+
+.ai-tool-name {
+    font-size: 0.75rem;       /* ← 修改这里可调整文字大小 */
+    font-weight: 500;         /* 字体粗细，可改 400/500/700 */
+    color: #000000cc;         /* 微透明白色，适配暗色背景 */
+    margin-top: 4px;          /* 与图标之间的距离 */
+    display: block;
+}
+
+
+
+/* skills 里面的 core domain */
+.core-domains-section {
+    display: flex;
+    flex-direction: column;  /* 一行一个 */
+    gap: 2rem;
+    margin-top: 2rem;
+    width: 100%;
+  }
+  
+  /* 每个 Domain 卡片 */
+.core-domain-card {
+    width: 100%;
+    background: rgba(255, 255, 255, 0.3); /* 半透明 */
+    border-radius: 16px;
+    padding: 1.75rem 2rem;
+    backdrop-filter: blur(12px);
+    border: 1px solid rgba(255,255,255,0.25);
+    box-shadow: 0 10px 24px rgba(0,0,0,0.12);
+  }
+
+html[data-bs-theme="dark"] .core-domain-card {
+    background: rgba(40,40,40,0.9);    /* 深色半透明 */
+    color: #f0f0f0;
+    border: 1px solid rgba(255,255,255,0.15);
+}
+
+html[data-bs-theme="dark"] .core-domain-card h3 {
+    color: #ffffff;
+}
+
+html[data-bs-theme="dark"] .core-domain-card li {
+    color: #dddddd;
+}
+  
+  /* 标题 */
+  .core-domain-card h3 {
+    font-size: 1.4rem;
+    font-weight: 700;
+    margin-bottom: 0.8rem;
+  }
+  
+  /* 列表 */
+  .core-domain-card ul {
+    padding-left: 1.2rem;
+    margin: 0;
+  }
+  
+  .core-domain-card li {
+    margin-bottom: 0.35rem;
+    line-height: 1.5;
+  }
+  
+  /* 小屏优化 */
+  @media (max-width: 768px) {
+    .core-domain-card {
+      padding: 1.25rem 1.5rem;
+    }
+  }
+
+.ai-techstack-section .core-domains-section-title {
+    text-align: center;
+    font-size: 2.6rem;
+    font-weight: 800;
+    margin-bottom: 2rem;
+    color: #222 !important;   /* 强制用深色 */
+}
+
+
+
+
+
+
+/* home.md里面的subtitle */
+/* 打字机：让 subtitle 拥有光标，但不负责逐字动画 */
+.hero-subtitle-animated {
+    display: inline-block;
+    color: inherit;  
+    white-space: pre-wrap;               /* 允许正常自动换行 */
+    border-right: 2px solid currentColor;/* 右侧光标 */
+    padding-right: 4px;
+    animation: heroCaretBlink 0.8s step-end infinite;
+    font-size: 36px;
+  }
+  
+  /* 光标闪烁 */
+  @keyframes heroCaretBlink {
+    from { border-color: currentColor; }
+    to   { border-color: transparent; }
+  }
+  
+
+
+/* 替换品牌名 “Adritian” 为 “Li Xiaoqing” */
+.navbar-brand span:first-child {
+    font-size: 1.6rem;
+    font-weight: 700;
+    color: #0d253f;
+}
+.navbar-brand span:first-child::before {
+    content: "Li Xiaoqing 🐰";
+}
+.navbar-brand span:first-child {
+    visibility: hidden;
+}
+.navbar-brand span:first-child::before {
+    visibility: visible;
+}
+
+/* 隐藏右侧的 “Demo” */
+.navbar-brand span:last-child {
+    display: none !important;
+}
+
+
+/* --------------------------------------------- */
+/* portfolio 内容                             */
+/* --------------------------------------------- */
+.core-title {
+  color: #f7e6b5 !important;  /* 温和奶黄色 */
+  font-weight: 700;
+  font-size: 2.6rem;
+  text-shadow: 0px 2px 6px rgba(0, 0, 0, 0.35);
+}
+
+/* --------------------------------------------- */
+/* 半透明玻璃灰卡片                                */
+/* --------------------------------------------- */
+.domain-card {
+  background: rgba(255, 255, 255, 0.08);  /* 半透明灰 */
+  backdrop-filter: blur(8px);             /* 磨砂玻璃效果 */
+  -webkit-backdrop-filter: blur(8px);
+
+  border-radius: 16px;
+  padding: 20px;
+  border: 1px solid rgba(255, 255, 255, 0.15);
+
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.25);
+
+  transition: transform 0.25s ease, box-shadow 0.25s ease;
+}
+
+/* 卡片 hover 动画 */
+.domain-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 14px 32px rgba(0, 0, 0, 0.35);
+}
+
+
+/* 大标题：Core Domains & Portfolio Focus */
+.core-title {
+  color: #f7e6b5 !important;  /* 你之前的奶黄色 */
+  font-weight: 700;
+  font-size: 2.6rem;
+  text-shadow: 0px 2px 6px rgba(0, 0, 0, 0.35);
+}
+
+/* Section 小标题（Selected Publications / Awards & Honors） */
+.section-title {
+  font-weight: 600;
+  font-size: 1.6rem;
+  color: #f7e6b5;
+}
+
+/* Publications / Awards 卡片外观 */
+.simple-card {
+  border-radius: 1rem;
+  background: rgba(0, 0, 0, 0.35);  /* 和整体深色风格协调 */
+}
+
+/* 让 bullet 点正常显示，并拉开一点缩进 */
+.simple-card ul {
+  list-style: disc;
+  padding-left: 1.5rem;
+  margin-bottom: 0;
+}
+
+/* 每条 publication/award 之间留一点间距 */
+.simple-card li {
+  margin-bottom: 0.6rem;
+}

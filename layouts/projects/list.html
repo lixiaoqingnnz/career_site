@@ -1,0 +1,99 @@
+{{ define "main" }}
+<div class="container my-5">
+  <!-- 标题 1：用 front matter 里的 title，附带 core-title 样式 -->
+  <h1 class="mb-4 core-title">{{ .Title }}</h1>
+
+  <!-- 可选：正文介绍 -->
+  {{ with .Content }}
+  <div class="mb-4">
+    {{ . | safeHTML }}
+  </div>
+  {{ end }}
+
+  <!-- ① Core Domains：三张卡片（有图片） -->
+  {{ with .Params.core_title }}
+  <h2 class="mt-5 mb-3 core-title">{{ . }}</h2>
+  {{ end }}
+
+  {{ $domains := .Params.core_domains }}
+  {{ if $domains }}
+    <div class="row">
+      {{ range $index, $domain := $domains }}
+        <div class="col-12 mb-4">
+          <div class="domain-card shadow-sm">
+            <div class="row g-0 align-items-center">
+
+              <!-- 左侧：文字 -->
+              <div class="col-md-7 p-4">
+                <h3 class="h5 mb-3">{{ $domain.title }}</h3>
+                {{ if $domain.items }}
+                  <ul class="mb-0">
+                    {{ range $domain.items }}
+                      <li>{{ . }}</li>
+                    {{ end }}
+                  </ul>
+                {{ end }}
+              </div>
+
+              <!-- 右侧：图片 -->
+              <div class="col-md-5">
+                {{ with $domain.image }}
+                  <div class="p-3 text-center">
+                    <img 
+                      src="{{ . | relURL }}" 
+                      class="img-fluid rounded-3"
+                      alt="{{ $domain.title }}">
+                  </div>
+                {{ end }}
+              </div>
+
+            </div>
+          </div>
+        </div>
+      {{ end }}
+    </div>
+  {{ else }}
+    <p>No core domain data found. Please configure <code>core_domains</code> in <code>content/projects/_index.md</code>.</p>
+  {{ end }}
+
+  <!-- ② Selected Publications：标题 + 无图卡片（有 bullet） -->
+  {{ with .Params.pub_title }}
+    <h2 class="mt-5 mb-3 core-title">{{ . }}</h2>
+  {{ end }}
+
+  {{ with .Params.publications }}
+    <div class="domain-card shadow-sm mb-4">
+      <div class="card-body">
+        <ul class="mb-0">
+          {{ range . }}
+            {{- $pub := . -}}
+            {{- $highlight := "Li, Xiaoqing" -}}
+            {{- $formatted := replace $pub $highlight (printf "<strong>%s</strong>" $highlight) -}}
+            <li>{{ $formatted | safeHTML }}</li>
+          {{ end }}
+        </ul>
+      </div>
+    </div>
+  {{ end }}
+
+
+
+  <!-- ③ 标题 3 + Awards 卡片（无图片） -->
+  {{ with .Params.awards_title }}
+    <h2 class="mt-5 mb-3 core-title">{{ . }}</h2>
+  {{ end }}
+
+  {{ with .Params.awards }}
+    <div class="domain-card shadow-sm mb-4">
+      <div class="card-body">
+        <ul class="mb-0">
+          {{ range . }}
+            <li>{{ . }}</li>
+          {{ end }}
+        </ul>
+      </div>
+    </div>
+  {{ end }}
+
+</div>
+{{ end }}

@@ -1,0 +1,12 @@
+:root {
+  --bs-link-color: #e03d8e;
+  --bs-link-color-rgb: 224, 61, 142;
+  --bs-link-hover-color: #b41d68;
+  --bs-link-hover-color-rgb: 179.77333333, 28.72666667, 103.78666667;
+  --bs-link-decoration: none; }
+
+a {
+  color: #e03d8e;
+  text-decoration: none; }
+  a:hover {
+    color: #b41d68; }

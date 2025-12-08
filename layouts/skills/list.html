@@ -1,0 +1,58 @@
+{{ define "main" }}
+
+  <div class="ai-techstack-container">
+    <h1 class="ai-techstack-title">{{ .Title }}</h1>
+
+    {{ with .Params.description }}
+      <p class="ai-techstack-subtitle">{{ . }}</p>
+    {{ end }}
+
+    <!-- Frameworks & Tools -->
+    {{ with .Params.frameworks_tools }}
+      <h2 class="ai-techstack-group-title">🔧 Frameworks &amp; Tools</h2>
+      <div class="ai-techstack-grid">
+        {{ range . }}
+          <div class="ai-techstack-card">
+            <h3>{{ .title }}</h3>
+
+            {{ with .tools }}
+              <div class="ai-tool-grid">
+                {{ range . }}
+                  {{ $tool := . }}
+                  <div class="ai-tool-item">
+                    {{ with $tool.icon }}
+                      <img src="{{ . | relURL }}" alt="{{ $tool.name }}" class="ai-tool-icon">
+                    {{ end }}
+                    <span class="ai-tool-name">{{ $tool.name }}</span>
+                  </div>
+                {{ end }}
+              </div>
+            {{ end }}
+
+          </div>
+        {{ end }}
+      </div>
+    {{ end }}
+
+    <!-- Core Domains -->
+    {{ with .Params.core_domains }}
+      <h2 class="ai-techstack-group-title">🤖 Core AI Domains</h2>
+      <div class="core-domains-section">
+        {{ range . }}
+          <div class="core-domain-card">
+            <h3>{{ .title }}</h3>
+            {{ with .items }}
+              <ul>
+                {{ range . }}
+                  <li>{{ . }}</li>
+                {{ end }}
+              </ul>
+            {{ end }}
+          </div>
+        {{ end }}
+      </div>
+    {{ end }}
+
+  </div>
+
+{{ end }}
