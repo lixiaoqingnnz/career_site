@@ -341,14 +341,14 @@ URL = "scss/adritian.scss"
 
 ## the following configuration would disable automatic theme selection
  [params.colorTheme.auto]
-   disable = true
+   disable = false
  [params.colorTheme.forced]
-   theme = "dark"
+   theme = "light"
 
 [params.colorTheme.selector.disable]
-footer = true
-header = true
-mobileHeader = true
+footer = false
+header = false
+mobileHeader = false
 ## by default we allow override AND automatic selection
 
 # Page transition settings
