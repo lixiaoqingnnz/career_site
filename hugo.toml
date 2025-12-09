@@ -64,8 +64,8 @@ target = "assets/css/bootstrap-print.css"
 
 [params]
 title = 'Li Xiaoqing - Personal Portfolio'
-description = 'This hugo theme (Adritian) is based on Bootstrap and has features that make it suitable for a personal site, a portfolio or other kind of Single Page Applications.'
-images = ['/img/og-img.png']
+description = 'Portfolio of Li Xiaoqing, featuring experience in ML research, LLM pipelines, data engineering, and applied AI projects.'
+#images = ['/img/og-img.png']
 sections = [
   "showcase",
   "about",

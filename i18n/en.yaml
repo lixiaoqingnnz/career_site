@@ -3,7 +3,7 @@
 - id: "meta_title"
   translation: "Li Xiaoqing - Personal Portfolio"   # ← 建议改成你的名字 + 简短身份
 - id: "meta_description"
-  translation: "Portfolio of Li Xiaoqing, featuring experience in ML research, LLM pipelines, data engineering, and applied AI projects."  # ← 你已经改得不错了
+  translation: "Portfolio of Li Xiaoqing, featuring experience in ML research, LLM pipelines, data engineering, and applied AI projects."  
 - id: "meta_keywords"
   translation: "Li Xiaoqing, machine learning, data science, LLM, AI engineer, portfolio, Singapore"  # ← 換成与你相关的关键词
 - id: "meta_author"
